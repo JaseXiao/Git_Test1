@@ -4,3 +4,6 @@
 852slave1
 963master
 999master
+
+kai
+kaikai
